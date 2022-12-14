@@ -4,7 +4,6 @@ Esse gerador cria um nome de uma banda através do nome da cidade em que o usuá
 
 ### Exemplo: 
 
-![Day01](https://user-images.githubusercontent.com/79524682/207472041-31203e5f-588b-4a93-a418-2fca8de9eb97.gif)
-
+![Day01](https://user-images.githubusercontent.com/79524682/207472717-a965996d-e95b-40eb-9bb2-d9f14c99cc90.gif)
 
 
